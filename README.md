@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepbendale
+- 👋 Hi, I’m Deep Bendale
 - 👀 I’m interested in the field of Data Science
 - 🌱 I’m currently doing the course of Computer Science
 
